@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจองห้องประชุมอัจฉริยะ (Smart Meeting Room Booking)",
+  "description": "เว็บแอปพลิเคชันจองห้องประชุมสำหรับองค์กร ระบบป้องกันการจองเวลาซ้อน ปฏิทินแสดงห้องว่าง และแดชบอร์ดสรุปสถิติอัตราการใช้งาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
